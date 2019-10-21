@@ -2,4 +2,12 @@
 comment0.target=DatabaseManager
 comment1.params=username\ password
 comment1.target=DatabaseManager(java.lang.String,\ java.lang.String)
-numComments=2
+comment2.params=name\ phoneNumber
+comment2.target=void\ addEntry(java.lang.String,\ java.lang.String)
+comment3.params=rs
+comment3.target=boolean\ inspectForTable(java.sql.ResultSet)
+comment4.params=
+comment4.target=void\ getEntries()
+comment5.params=remove
+comment5.target=void\ close(boolean)
+numComments=6

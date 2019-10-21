@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=UserInterface
+comment1.params=theDatabaseManager
+comment1.target=UserInterface(DatabaseManager)
+comment2.params=
+comment2.target=void\ start()
+numComments=3
